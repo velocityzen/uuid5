@@ -3,7 +3,7 @@
 Creates uuid from given string
 
 ```js
-var uuidv5 = require("uuidv5");
+var uuid5 = require("uuid5");
 console.log(uuidv5("Hello World"));
 
 ```
