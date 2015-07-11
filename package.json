@@ -1,6 +1,6 @@
 {
   "name": "uuid5",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "UUID v5 generator (SHA1 hash into 128 bits)",
   "main": "index.js",
   "scripts": {
