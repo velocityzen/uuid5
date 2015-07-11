@@ -1,0 +1,11 @@
+#UUID v5
+
+Creates uuid from given string
+
+```js
+var uuidv5 = require("uuidv5");
+console.log(uuidv5("Hello World"));
+
+```
+
+License MIT
