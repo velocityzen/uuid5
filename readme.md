@@ -1,9 +1,9 @@
 #UUID v5
 
-Creates uuid from given string
+Creates uuid from the given string
 
 ```js
-var uuid5 = require("uuid5");
+let uuid5 = require("uuid5");
 console.log(uuidv5("Hello World"));
 
 ```

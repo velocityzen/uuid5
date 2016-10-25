@@ -1,24 +1,28 @@
 {
-  "name": "uuid5",
-  "version": "1.0.1",
-  "description": "UUID v5 generator (SHA1 hash into 128 bits)",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": {
+    "email": "v@2dubs.com",
+    "name": "Alexey Novikov"
   },
+  "bugs": {
+    "url": "https://github.com/velocityzen/uuid5/issues"
+  },
+  "dependencies": {},
+  "description": "UUID v5 generator (SHA1 hash into 128 bits)",
+  "homepage": "https://github.com/velocityzen/uuid5#readme",
+  "keywords": [
+    "hash",
+    "sha1",
+    "uuid"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "uuid5",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/velocityzen/uuid5.git"
   },
-  "keywords": [
-    "uuid",
-    "sha1",
-    "hash"
-  ],
-  "author": "Alexey Novikov <v@2dubs.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/velocityzen/uuid5/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/velocityzen/uuid5#readme"
+  "version": "1.0.1"
 }
